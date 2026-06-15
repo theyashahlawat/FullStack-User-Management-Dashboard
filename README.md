@@ -1,5 +1,5 @@
-====================================================================
-🚀 MODERN FULL-STACK USER MANAGEMENT DASHBOARD
+=============================================
+ MODERN FULL-STACK USER MANAGEMENT DASHBOARD
 ====================================================================
 
 A sleek, production-ready Full-Stack CRUD application featuring a highly responsive, modern dark-themed UI. This project demonstrates end-to-end data flow between a React (Vite) frontend and a Java Spring Boot REST API backend connected to a relational database.
